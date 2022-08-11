@@ -1,6 +1,6 @@
 # alura.object-calisthenics
 
-## My certificate
+## My certificates
 
-<img src="certificate.png">
-
+<img src="certificates/calisthenics.png">
+<img src="certificates/xdebug.png">

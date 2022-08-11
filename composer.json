@@ -9,6 +9,9 @@
             "Alura\\Calisthenics\\Tests\\": "tests/"
         }
     },
+    "scripts": {
+        "test": "XDEBUG_TRIGGER=1 phpunit"
+    },
     "require": {
         "phpunit/phpunit": "^9"
     }
